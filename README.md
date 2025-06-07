@@ -26,7 +26,7 @@ Dashboard uses VSCode logo, but this config is not intended to be similar to thi
   * Esc - to exit telescope
   * Ctrl+u - rename function/variable/class/etc... using lsp
   * Ctrl+p - view references
-  * Ctrl+i - go to implementation
+  * Shift+i - go to implementation
   * Ctrl+d - go to definition
   * Ctrl+D - go to declaration
   * Ctrl+e - lsp diagnostic
